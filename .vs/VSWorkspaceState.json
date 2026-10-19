@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\database",
+    "\\app\\src",
+    "\\app\\src\\ExcellentTaste.Api",
+    "\\app\\src\\ExcellentTaste.Core",
+    "\\app\\src\\ExcellentTaste.Core\\Data",
+    "\\app\\src\\ExcellentTaste.WinForms"
   ],
-  "SelectedNode": "\\ExcellentTaste.sln",
+  "SelectedNode": "\\app\\src\\ExcellentTaste.WinForms\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
